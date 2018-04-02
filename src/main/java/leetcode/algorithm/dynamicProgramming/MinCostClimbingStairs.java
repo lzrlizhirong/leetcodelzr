@@ -1,7 +1,5 @@
 package leetcode.algorithm.dynamicProgramming;
 
-import java.util.HashMap;
-
 import static java.lang.Math.min;
 
 /**
